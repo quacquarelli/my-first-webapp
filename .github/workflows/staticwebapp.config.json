@@ -2,3 +2,8 @@
   "route": "/path",
   "rewrite": "./src/index.html"
 }
+{
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  }
+}
