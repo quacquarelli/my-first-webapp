@@ -1,4 +1,4 @@
 {
   "route": "/path",
-  "rewrite": "/index.html"
+  "rewrite": "./src/index.html"
 }
